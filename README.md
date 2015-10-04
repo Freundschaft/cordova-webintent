@@ -1,4 +1,4 @@
-# WebIntent Android Plugin for Cordova 3.X #
+# WebIntent Android Plugin for Cordova 3.X+ #
 By Boris Smus
 
 EXTRA_STREAM works in this version
